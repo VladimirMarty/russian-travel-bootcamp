@@ -9,6 +9,8 @@
         align-items: center;
         justify-content: center;
         text-decoration: none;
+        background-size: cover;
+        background-position: center;
     }
     
     .cover::before {
